@@ -1,0 +1,33 @@
+export const colors = {
+  accent: "linear-gradient(286.17deg, #FF575C 0%, #FF8285 100%)",
+  main: "#fff",
+  black: "#2F2E41",
+  grey: "#E6E6E6",
+
+  //   blue: "#0d1a2d",
+  //   darkBlue: "#0E1B2E",
+  //   aquaBlue: "#1DC4D2",
+  //   lightBlue: "#3B4D65",
+  //   semiDarkBlue: "#1A2B44",
+  //   midDarkBlue: "#071324",
+  //   veryDarkBlue: "#08101C",
+  //   borderBlue: "#223044",
+  //   fontBlue: "#536277",
+  //   white: "#fff",
+  //   black: "#000",
+  //   blackOpcaity: "#00000054",
+  //   lightGrey: "#595959",
+  //   semiLightGrey: "#949494",
+  //   grey: "#c3c5c8",
+  //   red: "#D94136",
+  //   tileBackground: "#23344b",
+  //   green: "#36d982",
+  //   orange: "#FF9011",
+  //   transparent: "#00ffff00",
+  //   textColor1: "#fff",
+  //   chatBlue: "#3B4758",
+  //   chatTextBoxBlue: "#27303D",
+  //   chatFooterBlue: "#1B253B",
+};
+
+export default colors;
